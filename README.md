@@ -9,4 +9,6 @@
 * Modify the app_name.exe inside the script to match your app name
 * Modify the Qt path inside the script to match your installation path
 * Run the script (32 or 64-bit according to app architecture)
-* Enjoy your standalone app
+* Enjoy your standalone app! ;)
+
+Note: if your app depends on external .dll, you have to include them manually inside the deploy folder
